@@ -10,17 +10,7 @@ nav{
   
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   
-  font-size: 1.5em;
-  display: grid;
-
-  /* sets height of main to 50px of the viewport */
-  height: 50px;
-
-  /* creates 5 equal sized rows */
-  grid-template-rows: repeat(1, 1fr);
-
-  /* creates 5 equal sized columns */
-  grid-template-columns: repeat(5, 1fr); 
+  font-size: 1.5em;  
 
 }
 nav a{
